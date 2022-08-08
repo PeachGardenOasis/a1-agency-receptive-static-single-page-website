@@ -16,5 +16,6 @@ Open index.html to view receptive static single page website using Bootstrap, HT
 
 ![text](https://i.imgur.com/k5DcRpj.png)
 
-Resize proportional to device
+Resize proportional to desired size
+
 ![text](https://i.imgur.com/JbRIqYl.png)
